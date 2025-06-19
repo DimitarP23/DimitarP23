@@ -1,9 +1,7 @@
 # 👋 About Me:
 
 Hi! I'm **Dimitar**, a passionate **22-year-old ICT student** from **Bulgaria** 🇧🇬 currently studying at **HZ University of Applied Sciences** in the Netherlands.
-
 I have a keen interest in **data science, machine learning, and data visualization** - turning messy datasets into meaningful insights and beautiful visualizations.
-
 I love working with **Jupyter notebooks** and experimenting with different visualization techniques to tell compelling stories with data.
 
 ## 💻 Tech Stack:
